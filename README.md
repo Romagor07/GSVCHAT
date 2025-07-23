@@ -5,7 +5,7 @@
 1) Скачать [GWSockets](https://github.com/FredyH/GWSockets/releases/latest)
 2) Скачать [CHTTP](https://github.com/timschumi/gmod-chttp/releases/latest)
 3) Закинуть эти бинарки в папку `garrysmod/lua/bin`
-4) Закинуть папку garrysmod в ... Угадайте, куда?
+4) Закинуть папку garrysmod
 5) Отредактировать файл `garrysmod/addons/gdiscord/lua/gdisc/gdisc_config.lua`
 6) Наслаждаться
 
