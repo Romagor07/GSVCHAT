@@ -1,7 +1,6 @@
 # GSVCHAT
 Простой чат для Сервера гаррис мод и дискорд
 
-# RU
 ### Установка:
 1) Скачать [GWSockets](https://github.com/FredyH/GWSockets/releases/latest)
 2) Скачать [CHTTP](https://github.com/timschumi/gmod-chttp/releases/latest)
