@@ -1,5 +1,5 @@
-# GDiscord
-Simple chat integration between GMOD and Discord
+# GSVCHAT
+Простой чат для Сервера гаррис мод и дискорд
 
 # RU
 ### Установка:
@@ -10,19 +10,9 @@ Simple chat integration between GMOD and Discord
 5) Отредактировать файл `garrysmod/addons/gdiscord/lua/gdisc/gdisc_config.lua`
 6) Наслаждаться
 
-# ENG
-### Installation:
-1) Download [GWSockets](https://github.com/FredyH/GWSockets/releases/latest)
-2) Download [CHTTP](https://github.com/timschumi/gmod-chttp/releases/latest)
-3) Put these binaries in `garrysmod/lua/bin`
-4) Put the `garrysmod/addons/...` folder in... Guess, where?
-5) Configure `garrysmod/addons/gdiscord/lua/gdisc/gdisc_config.lua`
-6) Enjoy
 
-# Bot's settings:
-
-##### No permissions scopes are required:
+##### Настройки бота:
 ![](https://i.imgur.com/7nzHG6V.jpeg)
 
-##### Only "Message content" intent is required:
+##### ДЛЯ НОРМАЛЬНОЙ РАБОТЫ НУЖЕН ТОЛЬКО ЭТОТ ПУНКТ:
 ![](https://i.imgur.com/TX6d1wK.jpeg)
